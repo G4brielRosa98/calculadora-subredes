@@ -1,0 +1,12 @@
+{
+  "name": "calculadora-subredes",
+  "version": "1.0.0",
+  "description": "Calculadora de sub-redes IPv4 em Node.js, sem bibliotecas prontas",
+  "main": "subrede.js",
+  "scripts": {
+    "start": "node subrede.js",
+    "test": "node --test"
+  },
+  "author": "Gabriel da Rosa",
+  "license": "MIT"
+}
